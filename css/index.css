@@ -1,5 +1,6 @@
 .photo {
-    width: 250px;
+    grid-area: 5 / 5;
+    width: 500px;
     border-color: black;
     border-width: 50px;
 }
