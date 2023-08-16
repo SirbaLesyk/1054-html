@@ -1,0 +1,32 @@
+.header__hide {
+    display: none;
+}
+
+.header__inner {
+    padding: 30px 24px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.header__logo-img {
+    width: 177px;
+}
+
+.header__burger {
+    position: absolute;
+    right: 50px;
+    width: 24px;
+    height: 16px;
+    background-color: transparent;
+    border: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.header__burger-line {
+    background-color: white;
+    width: 24px;
+    height: 2px;
+}
