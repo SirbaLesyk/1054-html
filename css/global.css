@@ -3,3 +3,8 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+:root {
+    scroll-behavior: smooth;
+    background-color: #1b191a;
+}
