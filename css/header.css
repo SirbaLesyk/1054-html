@@ -1,3 +1,7 @@
+.header {
+    background-image: url("../img/header-background.webp");
+}
+
 .header__hide {
     display: none;
 }
