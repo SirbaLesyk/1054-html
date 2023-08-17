@@ -7,9 +7,9 @@
 }
 
 :root {
+    --font-button: 'BenchNine', sans-serif;
     scroll-behavior: smooth;
     background-color: #1b191a;
-    --font-button: 'BenchNine', sans-serif;
 }
 
 .container {
