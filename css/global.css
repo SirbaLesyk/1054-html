@@ -8,6 +8,7 @@
 
 :root {
     --font-button: 'BenchNine', sans-serif;
+    --color-p: white;
     scroll-behavior: smooth;
     background-color: #1b191a;
 }
