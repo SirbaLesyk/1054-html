@@ -1,5 +1,5 @@
 .header {
-    background-image: url(../img/header-background.webp);
+    background-image: url(../img/progress-background.png);
     background-position: center;
     background-size: cover;
 }
@@ -126,7 +126,7 @@
 }
 
 .hide__logo-img {
-    width: auto;
+    width: 250px;
 }
 
 .hide__section {
