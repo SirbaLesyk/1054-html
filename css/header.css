@@ -49,11 +49,9 @@
 
 .header__divider {
     padding: 31px 27px;
-    background-image: url(../img/header-photo.webp);
-    background-position-x: center;
-    background-position-y: center;
-    background-size: contain;
-    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     width: 100%;
     height: 600px;    
 }
