@@ -159,10 +159,8 @@
 
 .hide__item {
     list-style-type: none;
-    margin-top: 5px;
-    margin-bottom: 5px;
-    margin-left: 7.5px;
-    margin-right: 12px;
+    margin: auto;
+    margin-right: 30px;
     font-size: 13px;
     font-weight: 400;
 }
