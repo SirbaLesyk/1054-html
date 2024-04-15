@@ -47,6 +47,13 @@
     flex-basis: 0%;
 }
 
+.header__content-head {
+    background-color: rgba(0, 0, 0, 0.33);
+}
+.header__content-head {
+    background-color: rgba(0, 0, 0, 0.33);
+}
+
 .header__divider {
     padding: 31px 27px;
     display: flex;
